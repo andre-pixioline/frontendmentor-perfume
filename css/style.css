@@ -13,25 +13,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Fraunces', serif;
-    font-family: 'Montserrat', sans-serif;
-    color: hsl(228, 12%, 48%);
     border: none;
 }
 
 body {
+    font-family: 'Montserrat', sans-serif;
     background-color: hsl(30, 38%, 92%);
-    font: 500;
 }
 
-a:hover{
-    color: hsl(212, 21%, 14%);
-}
-
-#container-produto {
-    background-color: hsl(0, 0%, 100%);
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
-    width: 400px;    
-}
